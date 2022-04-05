@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "uanuiutftr71",
+  "description": "uanuiutftr71",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/esfawq/uanuiutftr71",
+  "repository": "https://github.com/esfawq/uanuiutftr71",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
